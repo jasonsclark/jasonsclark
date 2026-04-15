@@ -1,6 +1,6 @@
 # Hi, I'm Jason 👋
 
-**Product leader. Enterprise application builder. Meteorologist. Surfer.**
+**Product leader. Enterprise application builder. Meteorologist. Mountain Biker. Surfer.**
 
 I've spent 25 years leading product, customer experience, and enterprise application strategy at companies like **Yahoo** and **Salesforce** — implementing and evolving platforms that improve adoption, reduce churn, and create new revenue across global teams. Before that I was deploying enterprise software to Fortune 500 clients around the world at **Kana Software**, where I learned that the gap between a good implementation and a failed one is almost always about requirements, relationships, and follow-through.
 
