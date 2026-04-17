@@ -1,12 +1,12 @@
 # Hi, I'm Jason 👋
 
-**Product leader. Enterprise application builder. Meteorologist. Mountain Biker. Surfer.**
+**Product leader. Customer experience architect. Enterprise application builder. Meteorologist. Mountain Biker. Surfer.**
 
-I've spent 25 years leading product, customer experience, and enterprise application strategy at companies like **Yahoo** and **Salesforce** — implementing and evolving platforms that improve adoption, reduce churn, and create new revenue across global teams. Before that I was deploying enterprise software to Fortune 500 clients around the world at **Kana Software**, where I learned that the gap between a good implementation and a failed one is almost always about requirements, relationships, and follow-through.
+I've spent 25 years at the intersection of product management, customer experience, and enterprise application strategy — building platforms, designing journeys, and implementing systems that help organizations understand and serve their customers better. At **Yahoo** and **Salesforce** I owned product roadmaps, built customer health scoring platforms, designed lifecycle programs, and led enterprise application implementations across global teams. Before that I was deploying enterprise software to Fortune 500 clients around the world at **Kana Software**, where I learned that the gap between a good implementation and a failed one is almost always about requirements, relationships, and follow-through.
 
-Before all of that, I was a kid who learned to surf and became obsessed with understanding how waves were created. I didn't want to be the one who heard about the swell after it happened — I wanted to forecast it myself and paddle out first. That obsession led me to the **U.S. Coast Guard** (weather program at 19), then to **San Francisco State University** where I earned my **B.S. in Meteorology** in 1997.
+Before all of that, I was a kid who learned to surf and became obsessed with understanding how waves were created. I didn't want to be the one who heard about the swell after it happened — I wanted to forecast it myself and paddle out first. That obsession led me to the **U.S. Coast Guard** at 19, where I served as a Fireman aboard the USCGC Blackhaw stationed at Yerba Buena Island in San Francisco, then to **San Francisco State University** where I earned my **B.S. in Meteorology** in 1997.
 
-I thought I'd become a professional forecaster or broadcast meteorologist. Instead, I took the programming, data modeling, and systems thinking from that degree and pivoted into tech — and spent the next 25 years building products, leading enterprise application implementations, and running teams across the industry.
+I thought I'd become a professional forecaster or broadcast meteorologist. Instead, I took the programming, data modeling, and systems thinking from that degree and pivoted into tech — and spent the next 25 years building products, designing customer experiences, leading enterprise application implementations, and running teams across the industry.
 
 I never stopped caring about weather. Now I'm building the thing I've been thinking about since I first paddled out.
 
@@ -43,27 +43,41 @@ Key architecture decisions:
 
 ---
 
-## 🏢 Enterprise Application Work
+## 🏢 The Work
 
-Most of my career has been spent at the intersection of product thinking and enterprise application delivery — not just defining what to build, but making sure implementations actually work for the people who depend on them.
+Three threads have run through my career simultaneously — product management, customer experience design, and enterprise application implementation. Most of the time they happened inside the same role, which is what makes the combination unusual.
 
-At **Kana Software** I led dozens of global enterprise software deployments for Fortune 500 clients, serving as the primary relationship owner from requirements through go-live across Customer Service, Sales, Marketing, and Support functions. I learned early that the hardest part of enterprise application work is never the technology — it's translating what business leaders actually need into something a system can reliably deliver.
+### Kana Software (1999–2003)
 
-At **Yahoo** I implemented and administered both **Inquira** (enterprise knowledge management) and **Kana CRM** for Yahoo's Global Customer Support Organization, supporting over 80 million monthly users across 100+ products and 32 languages. I also standardized the content architecture and governance workflows that kept the platform coherent across a massively distributed team.
+I started in enterprise software implementations, leading dozens of global deployments of Kana's customer communications and CRM platform for Fortune 500 clients. I owned the client relationship from requirements through go-live, translating what business leaders across Customer Service, Sales, Marketing, and Support actually needed into configured solutions that worked. I learned early that the hardest part of enterprise application work is never the technology — it's understanding what people actually need before you build anything.
 
-At **Salesforce** I owned product and application strategy for the digital customer success ecosystem, led the evaluation and selection of **Coveo** as the enterprise search platform of record across all customer-facing properties, and launched **Cloudpulse** — Salesforce's first customer health scoring and adoption intelligence platform — in partnership with engineering and BI teams.
+### Yahoo (2003–2013)
 
-More recently through **Epic Forecast Consulting** I have implemented **Birdeye** (AI-powered reputation and client experience management) and **Hona** (client communication portal) for a legal services firm, working directly with leadership to assess the environment, define requirements, and drive adoption.
+At Yahoo I did all three things at once. On the **enterprise application** side I implemented and administered **Inquira** (enterprise knowledge management) and **Kana CRM** for Yahoo's Global Customer Support Organization, supporting over 80 million monthly users across 100+ products and 32 languages. On the **product management** side I owned the roadmap and strategy for Yahoo's global Help platform, partnering directly with engineering and data teams to ship improvements at consumer internet scale. On the **customer experience** side I designed self-service journeys, ran A/B testing and content optimization programs, and standardized content architecture and governance across a massively distributed global team — because 80 million users experiencing fragmentation across 32 languages is a CX problem, not just an operational one.
 
-The common thread across all of it: understanding what organizations actually need, selecting or building the right platform, and ensuring the implementation delivers real value rather than just going live.
+### Salesforce (2013–2023)
+
+Ten years, three roles, all three threads running in parallel.
+
+On the **product management** side I owned the strategy, roadmap, lifecycle, and financial performance of Salesforce's Success Plans portfolio — from concept through launch, optimization, and renewal. I incubated the Accelerator Program from scratch, built business cases, defined value propositions, and scaled a new engagement model across all customer segments. I selected and implemented **Coveo** as the enterprise search platform of record across all customer-facing properties after rigorous vendor evaluation. I extended the Admin Services managed services offering across 15+ M&A integrations, and launched the EU Premier Success Plan as a compliance-aligned service for regulated markets.
+
+On the **customer experience** side I led user research and persona development to build **Cloudpulse** — Salesforce's first customer-facing health scoring platform. The research uncovered that customers had widely varying levels of technical competency and business context, so we designed visualization frameworks and simplified dashboards that gave every customer clear visibility into their own engagement and adoption gaps. I designed customer journey frameworks, lifecycle programs, and proactive engagement systems that reduced attrition and improved retention across hundreds of thousands of customers. I redesigned the end-to-end Help and Training navigation and search experience using behavioral data and iterative user feedback.
+
+On the **enterprise application** side I implemented Salesforce on Salesforce internally, owned the Help and Training platform as a product, and partnered with BI Engineering to build the telemetry systems and behavioral scoring models that powered Cloudpulse.
+
+### Epic Forecast Consulting (2024–Present)
+
+All three threads continue in consulting form. On the **enterprise application** side I evaluated and remediated a **Birdeye** implementation for a legal services firm and implemented **Hona** as a client communication portal, working directly with leadership to assess the environment, define requirements, and drive adoption. On the **customer experience** side I mapped the client journey, identified moments of truth across the case lifecycle, and designed the communication frameworks and feedback systems that improved client confidence and retention. On the **product** side I am building Epic Forecast from the ground up — data architecture, LLM orchestration, prompt engineering, agentic workflows, and evaluation frameworks.
+
+The common thread across all of it: understanding what people actually need, building or implementing the right solution, and ensuring it delivers real value rather than just going live.
 
 ---
 
 ## 💡 What I Think About
 
-- How product, operations, and go-to-market converge to drive real outcomes
+- How product, customer experience, and enterprise application work converge — and why separating them creates worse outcomes
 - The gap between data available and data useful — in weather and in everything else
-- Why enterprise application success depends more on requirements and relationships than technology selection
+- Why journey mapping and moments of truth matter more than satisfaction scores
 - Building AI-powered experiences that feel human, not robotic
 - The transition from project-based delivery to product-centric operating models — and why it matters
 - Waves, swells, buoy data, and when to paddle out
@@ -74,11 +88,11 @@ The common thread across all of it: understanding what organizations actually ne
 
 | | |
 |---|---|
-| **Epic Forecast** | Founder and Principal Consultant — building the weather platform I've wanted to create for 25 years, and helping organizations modernize their enterprise application environments |
-| **Salesforce** | Product and application strategy across platform initiatives, M&A integration, and enterprise search and intelligence systems |
-| **Yahoo** | Enterprise application implementation and digital engagement at global scale |
+| **Epic Forecast** | Founder and Principal Consultant — product management, CX strategy, and enterprise application consulting while building the weather platform I've wanted to create for 25 years |
+| **Salesforce** | Product management, CX design, and enterprise application strategy across Success Plans, Cloudpulse, Coveo, and M&A integration |
+| **Yahoo** | Product management, CX design, and enterprise application implementation at global consumer internet scale |
 | **Kana Software** | Managing Consultant — led dozens of global enterprise software deployments for Fortune 500 clients |
-| **U.S. Coast Guard** | Operational weather program · California coast |
+| **U.S. Coast Guard** | Fireman (E3) · USCGC Blackhaw · Yerba Buena Island, San Francisco |
 | **San Francisco State** | B.S. Meteorology, 1997 |
 
 ---
